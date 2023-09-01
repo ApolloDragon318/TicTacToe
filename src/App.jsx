@@ -66,7 +66,7 @@ function App() {
 
       <main className="board">
         <h1>Tic Tac Toe</h1>
-        <button onClick={resetGame}>Reset del juego</button>
+        <button onClick={resetGame}>Game Reset</button>
 
         <section className="game">
           {
